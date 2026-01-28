@@ -55,7 +55,7 @@ Experienced Web Developer crafting modern, scalable web applications using
 
 ### ⚙️ Tools & Others
 <p>
-  <img src="https://www.vectorlogo.zone/logos/postman/postman-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
